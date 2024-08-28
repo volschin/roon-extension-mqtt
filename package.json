@@ -5,7 +5,7 @@
     "main": "roon-mqtt.js",
     "author": "Floris Jan Galesloot",
     "license": "Apache-2.0",
-    "repository": "github/fjgalesloot/roon-extension-mqtt",
+    "repository": "github/volschin/roon-extension-mqtt",
     "dependencies": {
         "node-roon-api": "github:roonlabs/node-roon-api",
         "node-roon-api-status": "github:roonlabs/node-roon-api-status",
