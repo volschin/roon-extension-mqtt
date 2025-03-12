@@ -11,7 +11,7 @@
         "node-roon-api-status": "github:roonlabs/node-roon-api-status",
         "node-roon-api-transport": "github:roonlabs/node-roon-api-transport",
         "node-roon-api-browse": "github:roonlabs/node-roon-api-browse",
-        "mqtt": "",
+        "mqtt": "^5.1.4",
         "node-roon-api-settings": "github:roonlabs/node-roon-api-settings"
     }
 }
