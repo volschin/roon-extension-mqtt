@@ -1,4 +1,4 @@
-FROM node:24-bookworm-slim
+FROM node:24-trixie-slim
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update \
