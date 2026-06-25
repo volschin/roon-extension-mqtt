@@ -1,4 +1,4 @@
-FROM node:24.16-trixie-slim
+FROM node:24.18-trixie-slim
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update \
